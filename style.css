@@ -12,7 +12,7 @@ body {
 }
 
 .gradient-bg {
-    background-image: url('https://cgh.nairdwood.com/assets/branding/gradient.png');
+    background-image: url('./images/gradient.png');
     background-size: cover;
 }
 
