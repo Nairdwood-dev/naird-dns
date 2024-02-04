@@ -16,8 +16,8 @@
     <meta content="#5819a8" data-react-helmet="true" name="theme-color" />
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"/>
 </head>
-<body>
-    <div class="gradient-bg container text-center" style="height:100%; width:100%">
+<body class="gradient-bg">
+    <div class="container text-center" style="height:100%; width:100%">
         <div class="position-absolute top-50 start-50 translate-middle text-white">
             <img src="./images/nd-logo.png" style="width: 400px;" class="animate__animated animate__zoomIn">
             <h1 class="page-title animate__animated animate__fadeInUp animate__delay-1s">Powering DNS for Networkz Entertainment.</h1>
