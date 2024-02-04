@@ -1,0 +1,21 @@
+body {
+    font-family: Poppins;
+}
+
+.page-title {
+    font-weight: 900;
+    font-size: 3em;
+}
+
+.page-subtitle {
+    font-weight: 900;
+}
+
+.gradient-bg {
+    background-image: url('https://cgh.nairdwood.com/assets/branding/gradient.png');
+    background-size: cover;
+}
+
+.top-40 {
+    top: 40% !important;
+}
